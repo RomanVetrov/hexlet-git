@@ -1,2 +1,2 @@
-Hello, Hexlet!
+git is awesome!
 experiment with amend
